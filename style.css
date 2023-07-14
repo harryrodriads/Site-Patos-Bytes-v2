@@ -1,0 +1,109 @@
+h1 {
+    font-size: 40px;
+    text-align: center;
+    text-decoration-line: underline;
+}
+
+
+.navbar {
+    font-size: 20px;
+    padding: 40px;
+    text-align: center;
+}
+
+.esta {
+    border: 5px solid #14140F;
+}
+
+#quem-somos {
+    padding: 0px 50px 0px 50px;
+}
+
+.carousel-caption a {
+    font-size: 100px;
+    color: white;
+    text-shadow: 2px 2px 2px #14140F;
+    text-decoration-color: none;
+    text-decoration-line: none;
+    text-decoration-style: none;
+}
+
+h3 {
+    font-size: 15px;
+    text-align: center;
+    text-shadow: 2px 2px 2px black;
+}
+
+.carousel-inner > .carousel-item > img {
+    width: 500px;
+    height: 650px; 
+    padding: 30px 110px 0px 110px;
+}
+
+.carousel-control-next{
+    opacity: 100;
+}
+.carousel-control-prev{
+    opacity: 100;
+}
+
+p {
+    font-size: 20px;
+    text-align: center; 
+}
+
+body {
+    color: #14140F;
+    background: #A3CCAB;
+}
+
+#quem-somos {
+
+    padding: 0px 0px 100px;
+}
+
+.row {
+    background-color: #34675C;
+    padding-top: 30px;
+}
+
+.cor-card {
+    background-color: #34675C;
+}
+
+.cor-card2 {
+    background-color: #A3CCAB;
+}
+
+.texto {
+    text-align: center;
+    font-size: 22px;
+}
+
+.produtos {
+    padding-top: 50px;
+    padding-bottom: 0px;
+}
+
+h6 {
+    font-size: 40px;
+    text-align: center;
+    font-weight: bolder;
+}
+
+
+.zoom:hover img{
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+#footer {
+    text-align: center;
+    background-color: #34675C;
+}
+
+#final {
+    padding: 0px 400px 0px 400px;
+    text-align: center;
+    background-color: #34675C;
+}
